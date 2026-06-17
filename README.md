@@ -15,7 +15,7 @@
   <p>
     <a href="https://bigodepay.gustavogsilva06.workers.dev"><strong>Acessar Bigode Pay</strong></a>
     &nbsp;|&nbsp;
-    <a href="https://github.com/gusthhtps"><strong>GitHub</strong></a>
+    <a href="https://github.com/gustavogsilva06-bit"><strong>GitHub</strong></a>
   </p>
 
   <p>
