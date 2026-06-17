@@ -40,6 +40,12 @@
     <img src="https://img.shields.io/badge/Checkout-PIX%20%7C%20Cartao-FFFFFF?style=for-the-badge&labelColor=0A0A0A&color=FFFFFF" alt="Checkout" />
     <img src="https://img.shields.io/badge/Deploy-Cloudflare%20Workers-0A0A0A?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
   </p>
+
+  <img
+    src="./assets/bigode-pay-universe.svg"
+    alt="Bigode Pay Universe"
+    width="100%"
+  />
 </div>
 
 ---
@@ -75,6 +81,16 @@ Controle premium para operacoes de checkout e pagamento.
 ## Command Center
 
 <div align="center">
+  <img
+    src="./assets/command-center.svg"
+    alt="Bigode Pay Command Center"
+    width="100%"
+  />
+</div>
+
+<br />
+
+<div align="center">
 
 | Modulo | O que entrega |
 | --- | --- |
@@ -86,6 +102,14 @@ Controle premium para operacoes de checkout e pagamento.
 | Webhooks | Eventos assinados, integracoes e operacao automatizada |
 | Bigode AI | Insights, copy, produtos e apoio operacional |
 
+</div>
+
+<div align="center">
+  <img
+    src="./assets/payment-flow.svg"
+    alt="Fluxo Bigode Pay"
+    width="100%"
+  />
 </div>
 
 ## Stack

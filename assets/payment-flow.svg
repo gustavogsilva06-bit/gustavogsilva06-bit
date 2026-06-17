@@ -1,0 +1,28 @@
+<svg width="980" height="300" viewBox="0 0 980 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="980" height="300" rx="24" fill="#000000"/>
+  <rect x="24" y="24" width="932" height="252" rx="18" stroke="#FFFFFF" stroke-opacity=".16"/>
+  <text x="54" y="70" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="900">Fluxo Bigode Pay</text>
+  <text x="54" y="100" fill="#A1A1AA" font-family="Arial, Helvetica, sans-serif" font-size="15">Do checkout ate a liberacao premium de acesso.</text>
+
+  <g transform="translate(70 144)">
+    <rect width="170" height="80" rx="18" fill="#FFFFFF"/>
+    <text x="38" y="35" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="900">CHECKOUT</text>
+    <text x="42" y="58" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="12">Oferta premium</text>
+  </g>
+  <path d="M258 184H346" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M334 172L348 184L334 196" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g transform="translate(370 144)">
+    <rect width="170" height="80" rx="18" fill="#111111" stroke="#FFFFFF" stroke-opacity=".28"/>
+    <text x="54" y="35" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="900">PIX</text>
+    <text x="35" y="58" fill="#A1A1AA" font-family="Arial, Helvetica, sans-serif" font-size="12">Pagamento aprovado</text>
+  </g>
+  <path d="M558 184H646" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M634 172L648 184L634 196" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g transform="translate(670 144)">
+    <rect width="210" height="80" rx="18" fill="#FFFFFF"/>
+    <text x="42" y="35" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="900">ACESSO ATIVO</text>
+    <text x="48" y="58" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="12">Comunidade + SaaS</text>
+  </g>
+</svg>
